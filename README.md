@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
 - [Usage](#usage)
 - [Contributing](../CONTRIBUTING.md)
 
@@ -11,16 +10,12 @@
 
 This repository includes all the codes written for the course EE679 (Speech Processing) at the Indian Institute of Technology, Bombay. The codes are written in Python using Jupyter Notebook.
 
-## Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+All the necessary prerequisites for running the codes are listed below.
 
 ```
-Give examples
+pip install -r requirements.txt
 ```
 
 ### Installing
